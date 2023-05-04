@@ -20,4 +20,4 @@ AI/chatGPT相关资料
 
 ## 专栏文章
 
-1. [AI 大模型之美](https://time.geekbang.org/column/intro/100541001?tab=intro)，30 段实用代码，适合程序员，2023-03-20
+1. [AI 大模型之美](https://time.geekbang.org/column/intro/100541001?tab=intro)，共30讲，将代码和实际场景相结合，适合程序员，2023-03-20
