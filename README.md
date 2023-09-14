@@ -10,7 +10,7 @@ AI/chatGPT相关资料
 > 
 > 从产品场景切入，再反向补足模型能力的路径是合理且可行的
 
-2. [陆奇最新演讲实录：我的大模型世界观](https://mp.weixin.qq.com/s/_ZvyxRpgIA4L4pqfcQtPTQ)，腾讯科技，2023-04-23
+1. [陆奇最新演讲实录：我的大模型世界观](https://mp.weixin.qq.com/s/_ZvyxRpgIA4L4pqfcQtPTQ)，腾讯科技，2023-04-23
 
 ## 学习视频
 
