@@ -2,6 +2,9 @@
 
 AI/chatGPT相关资料
 
+## vibe-coding
+
+- [uni-app，你的最佳vibe coding搭子](https://github.com/hbcui1984/awesome-uni/blob/main/docs/uni-app-vibe-coding.md)
 
 ## 深度好文
 
