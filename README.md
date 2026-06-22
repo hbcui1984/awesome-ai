@@ -4,6 +4,7 @@ AI/chatGPT相关资料
 
 ## vibe-coding
 
+- [AI 驱动的跨端进化：利用 uni-agent 快速构建高性能鸿蒙应用 | HDC2026 演讲实录](https://zhuanlan.zhihu.com/p/2050267899365955038),2026-06-16发布；
 - [uni-agent，你的数字员工来了](https://github.com/hbcui1984/awesome-uni/blob/main/docs/uni-agent.md)
 - [uni-app，你的最佳vibe coding搭子](https://github.com/hbcui1984/awesome-uni/blob/main/docs/uni-app-vibe-coding.md)
   
